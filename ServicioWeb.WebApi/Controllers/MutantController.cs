@@ -32,9 +32,7 @@ namespace ServicioWeb.WebApi.Controllers
             var personas = BD.Person.ToList();
             Stats stats = new Stats();
             stats.Mutant = personas.Where(x => x.Mutant == 1).Count();
-            stats.Human = personas.Where(x => x.Mutant == 0).Count();
-
-            
+            stats.Human = personas.Where(x => x.Mutant == 0).Count();           
             stats.Ratio = stats.Mutant % personas.Count();
             return stats;
         }
