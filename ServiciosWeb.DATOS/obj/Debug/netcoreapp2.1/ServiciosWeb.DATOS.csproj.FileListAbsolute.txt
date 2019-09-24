@@ -1,0 +1,6 @@
+C:\Users\Sebas\source\repos\ServiciosWeb\ServiciosWeb.DATOS\bin\Debug\netcoreapp2.1\ServiciosWeb.DATOS.deps.json
+C:\Users\Sebas\source\repos\ServiciosWeb\ServiciosWeb.DATOS\bin\Debug\netcoreapp2.1\ServiciosWeb.DATOS.dll
+C:\Users\Sebas\source\repos\ServiciosWeb\ServiciosWeb.DATOS\obj\Debug\netcoreapp2.1\ServiciosWeb.DATOS.csprojAssemblyReference.cache
+C:\Users\Sebas\source\repos\ServiciosWeb\ServiciosWeb.DATOS\obj\Debug\netcoreapp2.1\ServiciosWeb.DATOS.csproj.CoreCompileInputs.cache
+C:\Users\Sebas\source\repos\ServiciosWeb\ServiciosWeb.DATOS\obj\Debug\netcoreapp2.1\ServiciosWeb.DATOS.AssemblyInfoInputs.cache
+C:\Users\Sebas\source\repos\ServiciosWeb\ServiciosWeb.DATOS\obj\Debug\netcoreapp2.1\ServiciosWeb.DATOS.AssemblyInfo.cs

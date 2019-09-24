@@ -1,0 +1,6 @@
+C:\Users\Sebas\source\repos\ServiciosWeb\ServicioWeb.Services\bin\Debug\ServicioWeb.Services.dll
+C:\Users\Sebas\source\repos\ServiciosWeb\ServicioWeb.Services\bin\Debug\ServicioWeb.Services.pdb
+C:\Users\Sebas\source\repos\ServiciosWeb\ServicioWeb.Services\obj\Debug\ServicioWeb.Services.csproj.CoreCompileInputs.cache
+C:\Users\Sebas\source\repos\ServiciosWeb\ServicioWeb.Services\obj\Debug\ServicioWeb.Services.dll
+C:\Users\Sebas\source\repos\ServiciosWeb\ServicioWeb.Services\obj\Debug\ServicioWeb.Services.pdb
+C:\Users\Sebas\source\repos\ServiciosWeb\ServicioWeb.Services\obj\Debug\ServicioWeb.Services.csprojAssemblyReference.cache
